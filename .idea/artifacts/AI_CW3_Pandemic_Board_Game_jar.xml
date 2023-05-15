@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AI CW3 Pandemic Board Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AI_CW3_Pandemic_Board_Game_jar</output-path>
+    <root id="archive" name="AI CW3 Pandemic Board Game.jar">
+      <element id="module-output" name="AI CW3 Pandemic Board Game" />
+    </root>
+  </artifact>
+</component>
